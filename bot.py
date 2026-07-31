@@ -7,8 +7,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
 # --- fill these in with your own values ---
-TELEGRAM_BOT_TOKEN = "8979933501:AAFH4FkWpskKr6404E0h4G0TD4GgaqOxGHE"
-AIPIPE_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjI0ZjMwMDQ2MDJAZHMuc3R1ZHkuaWl0bS5hYy5pbiIsImlhdCI6MTc4NTM5MzE0MywiaXNzIjoiaHR0cHM6Ly9haXBpcGUub3JnIiwiYXVkIjoiYWlwaXBlLWFwaSIsImV4cCI6MTc4NTk5Nzk0M30.CZ3Q8S3TpciB2BCDl49J6CN1mYByjZDFLv7d1C2H7z0"
+TELEGRAM_BOT_TOKEN = ""
+AIPIPE_TOKEN = ""
 LOG_URL = " https://24f3004602.github.io/tdsq11/main/run.jsonl"  # see Step 5 — where run.jsonl will be hosted
 # -------------------------------------------
 
